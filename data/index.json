@@ -1,0 +1,70 @@
+{
+ "book": "الكيمياء — السادس العلمي",
+ "chapters": [
+  {
+   "n": 1,
+   "title": "الثرموداينمك",
+   "titleEn": "Thermodynamics",
+   "ready": true,
+   "lessons": 17,
+   "wizari": 134
+  },
+  {
+   "n": 2,
+   "title": "الاتزان الكيميائي",
+   "titleEn": "Chemical Equilibrium",
+   "ready": true,
+   "lessons": 12,
+   "wizari": 120
+  },
+  {
+   "n": 3,
+   "title": "الاتزان الأيوني",
+   "titleEn": "Ionic Equilibrium",
+   "ready": true,
+   "lessons": 9,
+   "wizari": 136
+  },
+  {
+   "n": 4,
+   "title": "التأكسد والاختزال والكيمياء الكهربائية",
+   "titleEn": "Redox & Electrochemistry",
+   "ready": true,
+   "lessons": 10,
+   "wizari": 114
+  },
+  {
+   "n": 5,
+   "title": "الكيمياء التناسقية",
+   "titleEn": "Coordination Chemistry",
+   "ready": true,
+   "lessons": 8,
+   "wizari": 113
+  },
+  {
+   "n": 6,
+   "title": "طرائق التحليل الكيميائي",
+   "titleEn": "Chemical Analysis",
+   "ready": true,
+   "lessons": 6,
+   "wizari": 96
+  },
+  {
+   "n": 7,
+   "title": "الكيمياء العضوية للهيدروكاربونات المعوضة",
+   "titleEn": "Substituted Hydrocarbons",
+   "ready": true,
+   "lessons": 8,
+   "wizari": 96
+  },
+  {
+   "n": 8,
+   "title": "الكيمياء الحياتية",
+   "titleEn": "Biochemistry",
+   "ready": true,
+   "lessons": 6,
+   "wizari": 40
+  }
+ ],
+ "papers": 48
+}
